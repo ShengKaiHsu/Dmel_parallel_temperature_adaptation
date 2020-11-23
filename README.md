@@ -1,6 +1,8 @@
 # Dmel_parallel_temperature_adaptation
 This repository contains the raw data as well as the full R script for all the analyses in the following manuscript.
 
+The Rscript is named "Rscript_analysis_published.R"
+
 Title: Parallel gene expression evolution in natural and laboratory evolved populations
 
 Authors: Sheng-Kai Hsu1,2,‡, Chaimae Belmouaden1,3,‡, Viola Nolte1 and Christian Schlötterer1,*
