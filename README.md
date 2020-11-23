@@ -17,7 +17,11 @@ Ecological adaptation is frequently inferred by the comparison of natural popula
 
 # Brief Readme for the files
 The Rscript is named "Rscript_analysis_published.R"
+
 "count_table_published.csv" contains the read counts on each gene for each sample.
+
 "mel-cline-gene-count.deseq2.SH-NH.exp.chr" is the DE analysis between Northen and Southern North American populations from Zhao et al., 2015.
+
 "hutter_2008_Dmel_22.csv" is the table containing the expression difference between African and Europian populations from Hutter et al., 2008.
+
 "Afr_EU.txt" are the genes showing higher expression in African populations and "EU_Afr.txt" are the genes showing higher expression in European populations.
